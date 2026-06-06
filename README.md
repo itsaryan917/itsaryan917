@@ -135,3 +135,31 @@ VP       : Entrepreneurship Cell, NIT Patna
 ---
 
 ## 📍 Current Focus
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsaryan917/itsaryan917/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsaryan917/itsaryan917/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/itsaryan917/itsaryan917/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-raj-4772a9288)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsaryan917)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2FEqtwCL6Y)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanr.ug23.ec@nitp.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</div>

@@ -17,7 +17,7 @@ Name     : Aryan Raj
 Role     : B.Tech ECE @ NIT Patna (CGPA: 8.56/10, Graduating 2027)
 Focus    : Full Stack Dev · Competitive Programming · AI/ML
 LeetCode : 600+ problems solved | Peak rating 1616 | Top 13.5% globally
-Hackathon: 🏆 TenzorX National AI Hackathon — TOP 150 out of 27,000+ (Finalist)
+Hackathon: 🏆 TenzorX National AI Hackathon — TOP 10 out of 27,000+ (Finalist)
 OSS      : GirlScript Summer of Code (GSSoC) 2024 Contributor
 VP       : Entrepreneurship Cell, NIT Patna
 ```
@@ -126,7 +126,7 @@ VP       : Entrepreneurship Cell, NIT Patna
 
 | 🏆 | Achievement |
 |----|-------------|
-| 🥇 | **TenzorX National AI Hackathon** — Finalist, Top 150 out of **27,000+** participants |
+| 🥇 | **TenzorX National AI Hackathon** — Finalist, Top 10 out of **27,000+** participants |
 | 💡 | **ByteVerse 7.0 Hackathon** participant — NIT Patna (Apr 2025) |
 | 🌸 | **GirlScript Summer of Code (GSSoC)** 2024 — Open Source Contributor |
 | 🎖️ | **High Commendation** — NIT Patna MUN 2.0 (300+ participants) |
